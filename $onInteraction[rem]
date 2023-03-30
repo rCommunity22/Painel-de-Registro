@@ -1,0 +1,14 @@
+$ephemeral
+$nomention
+$title[Remover Cargos]
+$description[Remova os cargos conforme seu tipo e gosto!]
+$thumbnail[sua thumb]
+$color[#ff00ff]
+$removeButtons
+$newSelectMenu[rem1;1;1;Selecione o Cargo]
+
+$addSelectMenuOption[rem1;Nome da opção;1-$authorID;Descrição da opção;no;🛎]
+
+$addSelectMenuOption[rem1;Nome da opção;2-$authorID;Descrição da opção;no;🎨]
+
+$addSelectMenuOption[rem1;Nome da opção;3-$authorID;Descrição da opção;no;⛔]
