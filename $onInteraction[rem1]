@@ -1,0 +1,19 @@
+$nomention
+$removeComponent[rem1]
+$if[$message==1-$authorID]
+$roleGrant[$authorID;-id do cargo;-id do cargo;-id do cargo]
+$ephemeral
+> 🎉 Cargos de **Mention Roles** removidos.
+$endif
+
+$if[$message==2-$authorID]
+$roleGrant[$authorID;-id do cargo;-id do cargo;-id do cargo;-id do cargo;-id do cargo;-id do cargo;-id do cargo;-id do cargo;-id do cargo]
+$ephemeral
+> 🎉 Cargos de **Color Roles** removidos.
+$endif
+
+$if[$message==3-$authorID]
+$roleGrant[$authorID;-id do cargo;-id do cargo;-id do cargo;-id do cargo]
+$ephemeral
+> 🎉 Cargos de **gênero** removidos.
+$endif
