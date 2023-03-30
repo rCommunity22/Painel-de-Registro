@@ -1,0 +1,12 @@
+$ephemeral
+$nomention
+$title[Liberar Canais]
+$description[Libere canais conforme o seu gosto!]
+$thumbnail[sua thumb]
+$color[#afc8ee]
+$removeButtons
+$newSelectMenu[registro2;1;1;Selecione o Canal]
+
+$addSelectMenuOption[registro2;Nome da opção;1-$authorID;Descrição da opção;no;<:ItemBox:1087960379973447700>]
+
+$addSelectMenuOption[registro2;Nome da opção;2-$authorID;Descrição da opção;no;⛔]
