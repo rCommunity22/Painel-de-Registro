@@ -1,0 +1,13 @@
+$title[Painel de Registro]
+$description[Sua desc...]
+
+**Interaja com os botões abaixo para iniciar o processo.**]
+$thumbnail[sua thumb]
+$color[#afc8ee]
+$nomention
+$image[]
+
+$addButton[no;ment;Menções;secondary;no;🏓]
+$addButton[no;gen;Genero;secondary;no;😚]
+$addButton[no;chan;Canais;secondary;no;🎨]
+$addButton[no;color;Cores;secondary;no;✨]
