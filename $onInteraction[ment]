@@ -1,0 +1,15 @@
+$nomention
+$title[Mention Role]
+$description[Escolha as menções que você deseja receber.]
+$thumbnail[sua thumb]
+$color[#afc8ee]
+
+$newSelectMenu[registro1;1;1;Selecione um Ping]
+
+$addSelectMenuOption[registro1;Nome da opção...;1-$authorID;Descrição de seu botão...;no;<:BadgeDiscordBugHunter:1087951655162617856>]
+$addSelectMenuOption[registro1;Nome da opção2...;2-$authorID;Descrição de seu botão...;no;<:BadgeDiscordBugHunterGold:1087951657624666234>]
+$addSelectMenuOption[registro1;Nome da opção3...;3-$authorID;Descrição de seu botão...;no;<:LogoYouTube:1087958588519096340>]
+
+
+$removeButtons
+$ephemeral
