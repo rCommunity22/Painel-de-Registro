@@ -1,0 +1,16 @@
+$ephemeral
+$nomention
+$title[Gêneros]
+$description[Gerencie seu perfil selecionando seu cargo conforme seu gênero.]
+$thumbnail[sua thumb]
+$color[#afc8ee]
+$removeButtons
+$newSelectMenu[registro3;1;1;Selecione um Ping]
+
+$addSelectMenuOption[registro3;Nome da opção;1-$authorID;Descrição da oção;no;<:homemdenegocios:1088099730581639238> ]
+
+$addSelectMenuOption[registro3;Nome da opção;2-$authorID;Descrição da oção;no;<:mulher:1088099734339723294> ]
+
+$addSelectMenuOption[registro3;Nome da opção;3-$authorID;Descrição da oção;no;<:bandeiraarcoiris:1088099739821690951>]
+
+$addSelectMenuOption[registro3;Nome da opção;4-$authorID;Descrição da oção;no;<:naobinario:1088099736407523358>  ]
