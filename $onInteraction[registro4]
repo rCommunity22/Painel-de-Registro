@@ -1,0 +1,72 @@
+$nomention
+$removeButtons
+$removeComponent[registro4]
+$if[$message==1-$authorID]
+$roleGrant[$authorID;+id do cargo]
+> **:tada: Cargos adicionados:**
+$ephemeral
+> <@&id do cargo>
+$endif
+
+$if[$message==2-$authorID]
+$roleGrant[$authorID;+id do cargo]
+$ephemeral
+> **:tada: Cargos adicionados:**
+> <@&id do cargo>
+$endif
+
+$if[$message==3-$authorID]
+$roleGrant[$authorID;+id do cargo]
+> **:tada: Cargos adicionados:**
+$ephemeral
+> <@&id do cargo>
+$endif
+
+$if[$message==4-$authorID]
+$roleGrant[$authorID;+id do cargo]
+$ephemeral
+> **:tada: Cargos adicionados:**
+> <@&id do cargo>
+$endif
+
+$if[$message==5-$authorID]
+$roleGrant[$authorID;+id do cargo]
+$ephemeral
+> **:tada: Cargos adicionados:**
+> <@&id do cargo>
+$endif
+
+$if[$message==6-$authorID]
+$roleGrant[$authorID;+id do cargo]
+$ephemeral
+> **:tada: Cargos adicionados:**
+> <@&id do cargo>
+$endif
+
+$if[$message==7-$authorID]
+$roleGrant[$authorID;+id do cargo]
+$ephemeral
+> **:tada: Cargos adicionados:**
+> <@&id do cargo>
+$endif
+
+$if[$message==8-$authorID]
+$roleGrant[$authorID;+id do cargo]
+$ephemeral
+> **:tada: Cargos adicionados:**
+> <@&id do cargo>
+$endif
+
+$if[$message==9-$authorID]
+$roleGrant[$authorID;+id do cargo]
+$ephemeral
+> **:tada: Cargos adicionados:**
+> <@&id do cargo>
+$endif
+
+$if[$message==10-$authorID]
+$roleGrant[$authorID;+id do cargo]
+$ephemeral
+> **:tada: Cargos adicionados:**
+> <@&id do cargo>
+$endif
