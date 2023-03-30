@@ -1,0 +1,22 @@
+$nomention
+$removeComponent[registro1]
+$if[$message==1-$authorID]
+$roleGrant[$authorID;+id do cargo]
+$ephemeral
+> **🎉 Cargos adicionados:**
+> <@&id do cargo>
+$endif
+
+$if[$message==2-$authorID]
+$roleGrant[$authorID;+id do cargo]
+$ephemeral
+> **🎉 Cargos adicionados:**
+> <@&id do cargo>
+$endif
+
+$if[$message==3-$authorID]
+$roleGrant[$authorID;+id do cargo]
+$ephemeral
+> **🎉 Cargos adicionados:**
+> <@&id do cargo>
+$endif
