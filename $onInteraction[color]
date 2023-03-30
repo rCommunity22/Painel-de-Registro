@@ -1,0 +1,32 @@
+$nomention
+$ephemeral
+$removeButtons
+$title[Cores]
+$description[Personalize seu perfil e deixe a alegria dominar-lo!]
+$thumbnail[sua thumb]
+$color[#afc8ee] 
+
+$newSelectMenu[registro4;1;1;Selecione um Ping]
+
+$addSelectMenuOption[registro4;Nome da opção;1-$authorID;Descrição da opção;no;<:pessego:1088210154710904902>   ]
+
+$addSelectMenuOption[registro4;Nome da opção;2-$authorID;Descrição da opção;no;:<:Rremovebgprevieaaw:1088210159630823465>  ]
+
+$addSelectMenuOption[registro4;Nome da opção;3-$authorID;Descrição da opção;no;<:oceano:1088210153179971764>  ]
+
+$addSelectMenuOption[registro4;Nome da opção;4-$authorID;Descrição da opção;no;<:maracuja:1088210149090541608>  ]
+
+$addSelectMenuOption[registro4;Nome da opção;5-$authorID;Descrição da opção;no;<:grama:1088210141754695750>  ]
+
+
+$addSelectMenuOption[registro4;Nome da opção;6-$authorID;Descrição da opção;no;<:roxo:1088210157512691722> ]
+
+
+$addSelectMenuOption[registro4;Nome da opção;7-$authorID;Descrição da opção;no;<:castanha:1088210137589760060> ]
+
+
+$addSelectMenuOption[registro4;Nome da opção;8-$authorID;Descrição da opção;no;<:cu:1088210139330396220> ]
+
+$addSelectMenuOption[registro4;Nome da opção;9-$authorID;Descrição da opção;no;<:lago:1088210144493584454>  ]
+
+$addSelectMenuOption[registro4;Nome da opção;10-$authorID;Descrição da opção;no;<:angelical:1088210134720848042>    ]
